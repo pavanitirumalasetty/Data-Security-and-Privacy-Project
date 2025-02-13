@@ -3,8 +3,7 @@
 ## Team Members  
 - **Naga Sudha Pavani Tirumalasetty**  
 - **Pingili Gayathri**  
-- **Sai Sharan Eruventy**
-- 
+- **Sai Sharan Eruventy** 
 
 ## GitHub Repository  
 [Project Repository](https://github.com/pavanitirumalasetty/Data-Security-and-Privacy-Project/tree/main/app)
